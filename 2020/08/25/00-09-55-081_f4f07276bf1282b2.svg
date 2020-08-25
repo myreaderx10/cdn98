@@ -1,0 +1,31 @@
+<svg id="blog-section-video.svg" xmlns="http://www.w3.org/2000/svg" width="24" height="20.969" viewBox="0 0 24 20.969">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #41b9d1;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #c86bc0;
+      }
+
+      .cls-3 {
+        fill: #ffc833;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-1" d="M450,61.969v15a3,3,0,0,1-3,3H431a3,3,0,0,1-3-3v-15A2.99,2.99,0,0,1,430.69,59h16.62A2.99,2.99,0,0,1,450,61.969Z" transform="translate(-427 -59)"/>
+    <path class="cls-2" d="M427,76.969v-15A2.99,2.99,0,0,1,429.69,59H436l-3,20.969h-3A3,3,0,0,1,427,76.969Z" transform="translate(-427 -59)"/>
+    <path class="cls-3" d="M445,59h3.31A2.99,2.99,0,0,1,451,61.969v15a3,3,0,0,1-3,3h-6Z" transform="translate(-427 -59)"/>
+  </g>
+  <path id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-4" d="M444.75,69.276l-9-5.242a0.5,0.5,0,0,0-.5,0,0.505,0.505,0,0,0-.25.437V74.954a0.5,0.5,0,0,0,.25.437,0.5,0.5,0,0,0,.5,0l9-5.241A0.507,0.507,0,0,0,444.75,69.276Z" transform="translate(-427 -59)"/>
+</svg>
